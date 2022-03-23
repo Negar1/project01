@@ -1,0 +1,8 @@
+$projenv
+$venv
+*.pyc 
+.env 
+.DS_Store 
+.git
+__pycache__
+ADP800*
